@@ -1,2 +1,2 @@
-hola mundo
-frase nueva
+agregando nuevo texto a archivo2
+agregando nuevo texto de nuevo a archivo2
